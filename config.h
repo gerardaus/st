@@ -10,6 +10,7 @@
 // static char *font = "Source Code Pro:pixelsize=16:antialias=true:autohint=true";
 static char *font = "Inconsolata:pixelsize=18:antialias=true:autohint=true";
 static char *font2[] = { "Inconsolata for Powerline:pixelsize=18:antialias=true:autohint=true" };
+static char *font3[] = { "Noto Color Emoji:pixelsize=18:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
